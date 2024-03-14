@@ -72,4 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Project dependant
-/[As]ssets/Plugins/*
+/Assets/Plugins/*.dll
+/Assets/Plugins/*.dll.meta
