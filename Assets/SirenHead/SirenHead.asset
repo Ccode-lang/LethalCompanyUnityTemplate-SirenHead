@@ -65,12 +65,12 @@ MonoBehaviour:
   useNumberSpawnedFalloff: 0
   enemyPrefab: {fileID: 5269484848148867524, guid: bf226aa43ac3823468d4e7cbb082db09,
     type: 3}
-  PowerLevel: 0
+  PowerLevel: 1
   MaxCount: 1
   numberSpawned: 0
   isOutsideEnemy: 1
   isDaytimeEnemy: 0
-  normalizedTimeInDayToLeave: 0
+  normalizedTimeInDayToLeave: 1
   stunTimeMultiplier: 0
   doorSpeedMultiplier: 0
   stunGameDifficultyMultiplier: 0

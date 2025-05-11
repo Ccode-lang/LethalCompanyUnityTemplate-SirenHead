@@ -75,3 +75,4 @@ crashlytics-build.properties
 /Assets/Plugins/*.dll
 /Assets/Plugins/*.dll.meta
 Bundles/
+AssetBundles/
